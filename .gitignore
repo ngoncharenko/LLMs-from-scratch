@@ -113,7 +113,6 @@ ch02/05_bpe-from-scratch/vocab.json
 ch0?/0?_user_interface/.chainlit/
 ch0?/0?_user_interface/chainlit.md
 ch0?/0?_user_interface/.files
-*.lock
 
 # Temporary OS-related files
 .DS_Store
